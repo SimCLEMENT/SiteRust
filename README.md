@@ -7,5 +7,5 @@ https://simclement.github.io/SiteRustPremiere.github.io/
 English :
 This website was created as part of a project in NSI at secondary school (2023-2024). The aim was to create a website about a video game of our choice.
 I chose the online survival game RUST.
-Here is the link to the website:
+Here is the link to the website :
 https://simclement.github.io/SiteRustPremiere.github.io/
