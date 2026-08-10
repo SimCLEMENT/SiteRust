@@ -1,7 +1,11 @@
 # Site de présentation du jeu Rust
+
+
 <div align="center">
   <img width="250" height="250" alt="logo Rust" src="https://github.com/user-attachments/assets/5eea05ef-7978-4a19-9a75-9c84cd89ef19" />
 </div>
+
+
 Ce site a pour objectif de présenter un jeu du nom de Rust.
 
 ## Contexte
