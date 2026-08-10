@@ -1,6 +1,4 @@
-Site de presentation du jeu Rust
-
-<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/5eea05ef-7978-4a19-9a75-9c84cd89ef19" />
+Site de presentation du jeu Rust <img width="20" height="20" alt="logo Rust" src="https://github.com/user-attachments/assets/5eea05ef-7978-4a19-9a75-9c84cd89ef19" />
 
 
 
